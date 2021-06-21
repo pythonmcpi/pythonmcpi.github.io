@@ -1,3 +1,4 @@
+> This guide is probably outdated. I'm keeping it only for historical reasons.
 # Guide to Nuking Others in Slotbot
 
 ## Requirements
